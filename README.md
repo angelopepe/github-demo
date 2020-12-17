@@ -14,3 +14,7 @@ adding purpose, without pushing it in github
 new modify to full prove ---> CHANGING IN THE NEW BRANCH (TITLE-CHANGE BRANCH)
 
 ## How To Contribute
+
+##Copyright 
+
+2020 angelo
