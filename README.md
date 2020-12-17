@@ -1,2 +1,7 @@
-# github-demo
-a simple github repository for demo
+# Starter web project
+
+## Introduction
+
+## Purpose
+
+## How To Contribute
